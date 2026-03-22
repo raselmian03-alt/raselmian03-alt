@@ -10,7 +10,7 @@
 
 I'm a **Business & Marketing Data Analyst** based in Sweden, with a strong focus on transforming complex datasets into clear, actionable insights that drive real business decisions. I combine analytical thinking with machine learning and deep learning techniques to uncover patterns, forecast trends, and build data products that actually get used.
 
-Whether it's optimising a marketing funnel, analysing international trade flows, or building a predictive model — I bring both the technical depth and the business understanding to make the results meaningful.
+Whether it's optimising a marketing funnel, analysing international trade flows, or building a predictive model, I bring both the technical depth and the business understanding to make the results meaningful.
 
 - **Business & marketing analytics** — customer behaviour, segmentation, KPI dashboards, campaign performance
 - **Machine learning & deep learning** — predictive modelling, classification, regression, neural networks
